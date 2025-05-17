@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 ## 📫 Contact Me
 
 - **Phone:** +91 7738282085
-- **Email:** [bhavikjoshi8989@gmail.com](mailto:bhavikjoshi8989@gmail.com)
+- **Email:** [Bhavik Joshi](mailto:bhavikjoshi8989@gmail.com)
 - **LinkedIn:** [linkedin.com/bhavikjoshi](https://www.linkedin.com/in/bhavik-joshi-0b0636261/)
 
 ---
