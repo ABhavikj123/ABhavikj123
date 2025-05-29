@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 ## 🚀 Projects
 
 ### AI Mail Generator
-**Technologies:** Next.js 14 , TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Cohere AI
+**Technologies:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Cohere AI
 
 - Developed a responsive web app to generate professional emails and messages (cold emails, cold messages, cover letters) using AI.
 - Integrated Cohere AI for generating tailored message content with configurable message types.
