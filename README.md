@@ -51,23 +51,37 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 🚀 Projects
 
-### Hotel Booking Website
-**Technologies:** MERN, PostgreSQL, Tailwind CSS, @mui/material
+### AI Mail Generator
+**Technologies:** Next.js 14 , TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Cohere AI
 
-- Built a hotel booking platform using the MERN stack.
-- Utilized MongoDB for reviews, PostgreSQL for bookings and user data, and Cloudinary for image storage.
-- Implemented secure authentication with JWT and bcrypt.js.
-- Integrated Razorpay for payments.
-- Styled with Tailwind CSS and @mui/material for a modern, responsive UI.
+- Developed a responsive web app to generate professional emails and messages (cold emails, cold messages, cover letters) using AI.
+- Integrated Cohere AI for generating tailored message content with configurable message types.
+- Features direct message editing, one-click copy, and a modern, mobile-friendly UI built with Tailwind CSS and Shadcn/ui.
+- Implemented API rate limiting (2 requests/user/day, 500 character/message) and robust state management using Redux Toolkit.
+- Ensured a smooth user experience.
+- Deployed on Vercel for reliable, fast access: [AIMailGenerator](https://aimailgenerator.vercel.app)
 
 ### Contest Web Application
 **Technologies:** Next.js, React, Redux Toolkit, TypeScript, Tailwind CSS, LocalStorage, Docker
 
 - Developed a responsive web application to aggregate programming contest data from Codeforce, Codechef, and LeetCode.
 - Enabled users to browse, filter, and bookmark contests by status (Running, Upcoming, Past) and source.
-- Implemented dynamic API data fetching with Promise.allSettled for fault-tolerant, concurrent requests.
+- Implemented dynamic API data fetching.
 - Integrated YouTube video links to enhance contest learning experiences.
 - Crafted a modern UI with dark/light theme toggling and a persistent navbar using Redux Toolkit and LocalStorage.
+- Deployed on Vercel for reliable, fast access: [ContestWeb](https://contestweb.vercel.app)
+
+### MathMind Web Application  
+**Technologies:** TypeScript, Next.js
+
+- Developed an interactive web platform focused on mathematics learning and problem-solving.
+- Offers a variety of math challenges and quizzes for users to test and improve their skills.
+- Utilizes TypeScript for enhanced code reliability and maintainability.
+- Implements a responsive and intuitive user interface with modern CSS design principles.
+- Integrates real-time feedback and scoring to track user progress and engagement.
+- - Deployed on Vercel for reliable, fast access: [MathMind](https://mathmind-eight.vercel.app/)
+
+
 
 ---
 
